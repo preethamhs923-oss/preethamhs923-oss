@@ -1,4 +1,4 @@
-# 💫 About Me:
+#           Hi, i'm Preetham HS:
 •I'm currently learning genetrative AI and n8n automation<br>•I'm currently working on cyber threats detections projects<br>• All of my projects are available on GitHub<br>• Ask me about Programming, Cyber Security<br>• Reach out to me at preethamhs923@gmail.com
 
 
